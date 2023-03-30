@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="titulo">App Ingles</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="menu">MENU</string>
+    <string name="colores">COLORES</string>
+    <string name="frutas">FRUTAS</string>
+    <string name="aminales">ANMALES</string>
+    <string name="red">RED</string>
+    <string name="pink">PINK</string>
+    <string name="blue">BLUE</string>
+    <string name="orange">ORANGE</string>
+    <string name="banana">BANANA</string>
+    <string name="apple">APPLE</string>
+    <string name="cow">COW</string>
+    <string name="cat">CAT</string>
+    <string name="dog">DOG</string>
+    <string name="animals">ANIMALS</string>
+    <string name="fruits">FRUITS</string>
+
+</resources>
